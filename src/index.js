@@ -14,7 +14,7 @@ ReactDOM.render(
     </div>
     <div>
       <h1>Dev bothers sponsers</h1>
-      <h2> Your lucky number is {ran} </h2>
+      <h2> And to judge your lucky number is {ran} </h2>
       <ul>
         <li>Bill gates</li>
         <li>zukker {ran} bhaiya</li>
